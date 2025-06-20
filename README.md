@@ -40,9 +40,4 @@ Ensure you have the following installed:
 - Python 3.8 or above
 - Libraries listed in `requirements.txt`
 
-### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/06-Capstone-Project.git
-   cd 06-Capstone-Project
